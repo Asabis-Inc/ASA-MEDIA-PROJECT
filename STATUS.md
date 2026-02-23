@@ -28,7 +28,7 @@ LINE などで「進捗はこのリンクで確認できます」と共有する
 | **タスク一覧（詳細）** | [task_board.md](task_board.md) |
 | **プロジェクト概要・運用ルール** | [README.md](README.md) |
 | **企画〜投稿のワークフロー** | [docs/workflow.md](docs/workflow.md) |
-| **直近の議事録** | （議事録をリポジトリに置いたら、ここにリンクを追加。例: `docs/meeting_summaries/YYYY-MM-DD_〇〇.md`） |
+| **直近の議事録** | [2026-02-21 動画公開進捗](docs/meeting_summaries/2026-02-21_Video_Publication_Progress.md) |
 
 ---
 
